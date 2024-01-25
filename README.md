@@ -33,7 +33,7 @@ to see what you make with it.
 
 ### Contact
 
-For anything, help or suggestion, or just questions, my discord : shirikoo
+For anything, help or suggestions, or just questions, my discord : shirikoo
 
 ### Thank you, hope you like
 
