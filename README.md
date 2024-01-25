@@ -20,6 +20,6 @@ to see what you make with it.
 
 |Icon|Description|
 | --- | --- |
-|![Red color icon](/button/redButton.png)|Draw with the red color|
+|![Red color icon](/button/redButton60x60.png)|Draw with the red color|
 
 
