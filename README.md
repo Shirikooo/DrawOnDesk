@@ -1,4 +1,4 @@
-# Draw On Desk
+# Draw On Desk ![DOD Icon](/icon/dod50x50.png)
 ## Or how to draw on your computer screen easily and for free
 
 ### What is Draw On Desk ?
@@ -30,5 +30,11 @@ to see what you make with it.
 |![Clear icon](/button/clearButton50x50.png)|Clear the screen of all drawing|
 |![Close icon](/button/closeButton50x50.png)|Close the app|
 |![Change side icon](/button/toRightButton50x50.png)|Put the tool bar to the right or the left|
+
+### Contact
+
+For anything, help or suggestion, or just questions, my discord : shirikoo
+
+### Thank you, hope you like
 
 
