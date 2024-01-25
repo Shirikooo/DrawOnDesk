@@ -24,7 +24,7 @@ to see what you make with it.
 |![Blue color icon](/button/blueButton60x60.png)|Draw with the blue color|
 |![Green color icon](/button/greenButton60x60.png)|Draw with the green color|
 |![White color icon](/button/whiteButton60x60.png)|Draw with the white color|
-|![Active icon](/button/activ.png)/![Unactive icon](/button/unactiv.png)|Click on that icon to enable the drawing mode (left icon), or disable it and use your computer (right icon)|
-|![Size indicator icon](/button/sizeIndicator50x50.png)|An indicator of the size of the pen (use mouse scroll to modify)|
+|![Active icon](/button/activ50x50.png)/![Unactive icon](/button/unactiv50x50.png)|Click on that icon to enable the drawing mode (left icon), or disable it and use your computer (right icon)|
+|![Size indicator icon](/button/sizeLabel50x50.png)|An indicator of the size of the pen (use mouse scroll to modify)|
 
 
