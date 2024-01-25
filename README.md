@@ -11,7 +11,7 @@ streaming to a friend to show something, and pointing things with my finger like
 ### How to use that tool ? 
 #### Launch the app
 
-  Just clone the project (or download it from **Itch.io** : [link]) and click on the executable.
+  Just clone the project (or download it from **Itch.io** : [go on Itch](https://shirikoo.itch.io/draw-on-desk)) and click on the executable.
 Maybe your antivirus will analyse it, but I promise, it's **safe**. I also put the source code, if
 you want to add some functionnalities or modify what you want. Feel free to use my code, I'll be happy 
 to see what you make with it.
